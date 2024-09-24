@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sukhenduRana
-- 👀 I’m interested in fullstack development using Java, Spring boot, ReactJs, MongoDB and cloud technologies
-- 🌱 I’m currently working as an Architect/Lead Engineer
+- 👀 I'm a fullstack developer working on Java, Spring boot, ReactJs, MongoDB and cloud technologies
+- 🌱 I’m currently working as a Principal Engineer / Architect.
 - 💞️ I’m looking to collaborate on open source libraries, Java fullstack projects
-- 📫 You can reach me on sukhendu.rana@gmail.com
+- 📫 You can reach me on sukhendu.rana@outlook.com
 
 <!---
 sukhenduRana/sukhenduRana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
